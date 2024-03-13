@@ -1,0 +1,27 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: #E4658E;
+    -webkit-text-stroke-color: blanchedalmond;
+    text-align: center;
+    overflow: hidden;
+}
+
+.title{
+    font-size: 30px;
+}
+
+button{
+    border-radius: 30px;
+    border-width: 2px;
+    border-color: black;
+    background-color: #F1D5AE;
+    
+    size: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+}
+.button:hover,.button:focus {
+    border: 20px;
+  background-color: #F082AC;
+}
